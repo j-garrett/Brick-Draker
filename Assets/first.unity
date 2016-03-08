@@ -403,10 +403,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 815117915}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aa3e779d995c21e49938ca050104f146, type: 3}
+  m_Script: {fileID: 11500000, guid: ac1b5c8530118410ba328bebd1f65417, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 0}
 --- !u!1 &868198118
 GameObject:
   m_ObjectHideFlags: 0
@@ -477,6 +476,7 @@ GameObject:
   - 61: {fileID: 1622537141}
   - 50: {fileID: 1622537142}
   - 114: {fileID: 1622537143}
+  - 114: {fileID: 1622537144}
   m_Layer: 0
   m_Name: paddle
   m_TagString: Player
@@ -569,6 +569,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 0}
+--- !u!114 &1622537144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1622537138}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78025e1e896f741a6a99d3e9caff468e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1743401095
 GameObject:
   m_ObjectHideFlags: 0
