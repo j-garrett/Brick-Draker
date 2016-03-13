@@ -2,9 +2,9 @@
  
 public class DontGoThroughThings : MonoBehaviour
 {
-       // Careful when setting this to true - it might cause double
-       // events to be fired - but it won't pass through the trigger
-       public bool sendTriggerMessage = false; 	
+    // Careful when setting this to true - it might cause double
+    // events to be fired - but it won't pass through the trigger
+    public bool sendTriggerMessage = false; 	
  
 	public LayerMask layerMask = -1; //make sure we aren't in this layer 
 	public float skinWidth = 0.1f; //probably doesn't need to be changed 
