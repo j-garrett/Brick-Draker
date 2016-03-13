@@ -1,6 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
-
 Project("{172C91B0-9EDD-346A-D341-D29359BFBC77}") = "Brick Draker", "Assembly-CSharp-firstpass.csproj", "{E579936D-0F2B-C1C4-5864-CF61FF2E72BA}"
 EndProject
 Project("{172C91B0-9EDD-346A-D341-D29359BFBC77}") = "Brick Draker", "Assembly-CSharp-Editor.csproj", "{8F08E1B2-5B56-7592-3D6A-0A8D544798CC}"
@@ -25,9 +24,6 @@ Global
 		{BC8353EE-B1BB-9DD2-4C0D-1FFE1F574D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC8353EE-B1BB-9DD2-4C0D-1FFE1F574D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC8353EE-B1BB-9DD2-4C0D-1FFE1F574D0C}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
